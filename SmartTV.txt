@@ -152,6 +152,7 @@ samsungcloudsolution.net
 samsungqbe.com
 #samsungrm.net
 sas.samsungcloudsolution.com
+sas.samsungcloudsolution.com
 sca.samsung.com
 sso.internetat.tv # account login
 syncplusconfig.s3.amazonaws.com
@@ -196,6 +197,7 @@ gamespromotion.samsungcloudsolution.com
 #osb-ussvc.samsungqbe.com # required for TV Plus
 #otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 #ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+d37ju0xanoz6gh.cloudfront.net
 
 # Roku
 scribe.logs.roku.com
