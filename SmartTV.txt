@@ -119,7 +119,7 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
 gld.samsungosp.com
-gpm.samsungqbe.com
+# gpm.samsungqbe.com
 i-stream.pl
 log-1.samsungacr.com
 log-2.samsungacr.com
@@ -149,7 +149,7 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungqbe.com
+# samsungqbe.com
 # samsungrm.net
 sca.samsung.com
 sso.internetat.tv # account login
