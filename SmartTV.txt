@@ -151,8 +151,6 @@ samsungcloudsolution.com
 samsungcloudsolution.net
 samsungqbe.com
 #samsungrm.net
-#sas.samsungcloudsolution.com
-#sas.samsungcloudsolution.com
 sca.samsung.com
 sso.internetat.tv # account login
 syncplusconfig.s3.amazonaws.com
@@ -177,7 +175,6 @@ data.arqiva.tv
 cloud.arqiva.tv
 ad.samsungadhub.com
 ads.aimitv.com
-#d37ju0xanoz6gh.cloudfront.net
 rd.samsungadhub.com
 samsungadhub.com
 samsungads.com
@@ -196,7 +193,7 @@ gamespromotion.samsungcloudsolution.com
 #www.samsungotn.net # required for software update
 #osb-ussvc.samsungqbe.com # required for TV Plus
 #ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
-#d37ju0xanoz6gh.cloudfront.net
+
 
 # Roku
 scribe.logs.roku.com
@@ -304,4 +301,4 @@ e2.resources.foxtel.com.au
 a1.resources.foxtel.com.au
 
 # Yamaha AV receivers
-#avpro.global.yamaha.com # Blocks system updates on RX-V685
+# avpro.global.yamaha.com # Blocks system updates on RX-V685
